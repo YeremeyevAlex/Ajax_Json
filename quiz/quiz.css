@@ -1,0 +1,16 @@
+body {
+	background: #efefef;
+}
+#test {
+	width: 400px;
+	padding: 50px 30px; 
+	margin: 50px auto;
+	background: #fff;
+	border-radius: 10px;
+	box-shadow: 0 0 10px gray;
+	text-align: center;
+}
+#test ul {
+	list-style: none;
+	text-align: left;
+}
